@@ -53,7 +53,7 @@ const Login = () => {
                 </div>
 
                 <button
-                  class='w-full px-10 py-2 bg-gradient-to-b from-blue-600 via-blue-800 to-indigo-900 text-white text-sm uppercase rounded-md transition-all duration-300 
+                  className='w-full px-10 py-2 bg-gradient-to-b from-blue-600 via-blue-800 to-indigo-900 text-white text-sm uppercase rounded-md transition-all duration-300 
               hover:bg-gradient-to-t hover:drop-shadow-md ease-in'
                   type='submit'
                 >

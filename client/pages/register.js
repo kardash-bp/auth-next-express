@@ -57,7 +57,7 @@ const Register = () => {
                 </div>
 
                 <button
-                  class='mb-6 w-full px-10 py-2 bg-gradient-to-b from-violet-400 via-violet-500 to-violet-600 text-white text-sm uppercase rounded-md transition-all duration-300 
+                  className='mb-6 w-full px-10 py-2 bg-gradient-to-b from-violet-400 via-violet-500 to-violet-600 text-white text-sm uppercase rounded-md transition-all duration-300 
               hover:bg-gradient-to-t hover:drop-shadow-lg ease-in'
                   type='submit'
                 >
